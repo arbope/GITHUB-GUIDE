@@ -16,7 +16,7 @@ _Aron Bou Pelillo_
 
 In this quickstart guide, you will:
 
-* [Create a repository](#Step-1:-Create-a-repository)
+* [Create a repository](#tep-1-create-a-repository)
 * [Create a branch](#step-2-create-a-branch)
 * [Make and commit changes](#step-3-make-and-commit-changes)
 * [Open a pull request](#step-4-open-a-pull-request)
